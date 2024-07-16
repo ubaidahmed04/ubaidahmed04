@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidahmed04&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidahmed04" /> </p>
 
-![MasterHead](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/bg.png)
+![MasterHead](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, My name is Ubaid Ahmed</h1>
 <h3 align="center">A passionate mern stack developer. Thank You for taking the time to view my GitHub Profile</h3>
