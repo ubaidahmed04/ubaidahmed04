@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidahmed04&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidahmed04" /> </p>
 
-![MasterHead](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/banner.jpg)
+![logo](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, My name is Ubaid Ahmed</h1>
 <h3 align="center">A passionate mern stack developer. Thank You for taking the time to view my GitHub Profile</h3>
@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaidahmed04" alt="ubaidahmed04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shrjilhussain" target="blank"><img src="https://img.shields.io/twitter/follow/shrjilhussain?logo=twitter&style=for-the-badge" alt="shrjilhussain" /></a> </p>
 
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
