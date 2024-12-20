@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/banner.jpg)
 
-<h1 align="center">Hi 👋, My name is Ubaid Ahmed</h1>
+<h1 align="center">Hi 👋, My name is Ubaid Ahmed </h1>
 <h3 align="center">A passionate mern stack developer. Thank You for taking the time to view my GitHub Profile</h3>
 
 
@@ -48,7 +48,7 @@
 <a href= https://github.com/http://github.com/ubaidahmed04/?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/ubaidahmed04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaidahmed04" height="30" width="40" /></a>
