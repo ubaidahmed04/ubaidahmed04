@@ -47,6 +47,9 @@
 <a href= https://github.com/http://github.com/ubaidahmed04/?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
 <a href= https://github.com/http://github.com/ubaidahmed04/?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 
+<a href="https://github.com/ubaidahmed04/?tab=repositories&q=&type=&language=nextjs&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" alt="Next.js Icon">
+</a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
