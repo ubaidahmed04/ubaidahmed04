@@ -51,16 +51,21 @@
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" alt="Next.js Icon">
 </a>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
+### 🎢 GitHub Fun Zone:
 
-<a href="https://linkedin.com/in/ubaidahmed04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaidahmed04" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100055489695083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ubaid Ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/ubaidahmed04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ubaidahmed04" height="30" width="40" /></a>
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ubaidahmed04&show_icons=true&bg_color=0D1117&title_color=004080&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/></a>
+  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidahmed04&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
+ <a href="#"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidahmed04&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" height="180px"/></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaidahmed04&show_icons=true&locale=en&layout=compact" alt="ubaidahmed04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaidahmed04&show_icons=true&locale=en" alt="ubaidahmed04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidahmed04&" alt="ubaidahmed04" /></p>
+#### 🌍 Let's Connect:
+<div align="center">
+    <a href="https://ubaidahmed.vercel.app"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
+    <a href="mailto:ubaidahmed2040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
+    <a href="https://linkedin.com/in/ubaidahmed04"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
+<!--     <a href="https://twitter.com/0xAsharib"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a> -->
+    <a href="https://instagram.com/ubaidahmed04"><img src="https://img.shields.io/badge/-Intagram-0D1117?style=for-the-badge&logo=instagram&logoColor=DD3663" alt="Telegram"></a>
+</div>
