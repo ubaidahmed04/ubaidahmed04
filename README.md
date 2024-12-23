@@ -51,6 +51,10 @@
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" alt="Next.js Icon">
 </a>
 
+<div align="center">
+  <a href="https://gitroll.io/profile/upI4dJZkF35dnV1sFhuYz5qQZK813" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upI4dJZkF35dnV1sFhuYz5qQZK813" alt="GitRoll Profile Badge"/></a>
+</div>
+
 ### 🎢 GitHub Fun Zone:
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
