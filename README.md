@@ -71,5 +71,5 @@
     <a href="mailto:ubaidahmed2040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
     <a href="https://linkedin.com/in/ubaidahmed04"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
 <!--     <a href="https://twitter.com/0xAsharib"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a> -->
-    <a href="https://instagram.com/ubaidahmed04"><img src="https://img.shields.io/badge/-Intagram-0D1117?style=for-the-badge&logo=instagram&logoColor=DD3663" alt="Telegram"></a>
+    <a href="https://instagram.com/ubaidahmed04"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=DD3663" alt="Telegram"></a>
 </div>
