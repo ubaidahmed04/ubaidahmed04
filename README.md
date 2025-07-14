@@ -16,11 +16,11 @@
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
     Hello there!
-    Welcome to my Github 😊
+    Welcome to my Github 👋🏻
   </h1>
 
  👦🏻 My name is **Ubaid Ahmed**. I'm a Computer Science  Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in karachi City, Pakistan. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my 2nd year at the SMIU University . <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
+  👨🏻‍💼 I'm studying Software Engineering in my 2nd year at the SMIU University . <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
   💪🏻 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
   👨🏻‍💻 Feel free to chat with me! 💅🏻 ✨ <br/>
   👨🏻‍💻 Want to know more about me? Check out my &nbsp;
